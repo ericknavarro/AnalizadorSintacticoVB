@@ -1,0 +1,12 @@
+/******************************************
+ * Ejemplo desarrollado por Erick Navarro *
+ * Blog: e-navarro.blogspot.com           *
+ * Octubre - 2015                         *
+ ******************************************/
+
+Este proyecto fue desarrollado con:
+
+* Visual Basic		  (Lenguaje de programación)
+* Visual Studio 2013  (IDE)
+* Windows 7           (Sistema operativo)
+
